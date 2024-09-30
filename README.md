@@ -1,7 +1,6 @@
 # SQL FMCG SALES PROJECT
 
-In this project, I used SQL server to deal with the sales data from a FMCG brand. The work involved advanced join, union, subquery, update, case-when, rank over to answer the following question:
-
+In this project, I worked with sales data from an FMCG brand using SQL Server. The task involved applying advanced techniques such as join, union, subquery, update, case-when, and rank over to address the following questions:
 - Use the newly created April and June sales table to find a list of customers who bought in April but did not buy in June and vice versa.
 
 - Compare each customer's purchase amount in April and June.
@@ -18,9 +17,9 @@ In this project, I used SQL server to deal with the sales data from a FMCG brand
 
 - Get the transaction information with the largest amount by day and by store
 
-- Get the customer with the largest amount of money by day and by store
+- Get the customer with the largest amount of money by month and by store
 
-**Here are my SQL queries:**
+**Below are my SQL queries:**
 
 _**1. Use the newly created April and June sales table to find a list of customers who bought in April but did not buy in June and vice versa.**_
 ```
